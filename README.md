@@ -2,20 +2,13 @@
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	Hi, Welcome to my profile!
-	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning+;I+am++into+Deep+Learning+;I+am++into++Big+Data;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=F70E18&background=9F6AFF00&center=true&vCenter=true&width=435&lines=My+name's+Phu;I'm+a+Senior+Java+Developer" alt="Typing SVG" /></a>
 </p>
-
-<!-- Social badges section -->
-<p align="center">
-	<a href="https://github.com/thenomaniqbal/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=red&style=for-the-badge"/></a>
-	<a href="https://github.com/thenomaniqbal?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/thenomaniqbal"/></a>
-  	<a href="https://github.com/thenomaniqbal?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/thenomaniqbal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 	
 </p>
 <!--<img src="https://komarev.com/ghpvc/?username=thenomaniqbal&label=Profile%20Views&color=blue&style=plastic" align='right' alt="thenomaniqbal" />
@@ -23,16 +16,15 @@
 <hr/>
 
 <!-- Introduction -->
-My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/) and I'm a Software Engineer/Data Scientist. I'm from Pakistan, living in Islamabad, and currently pursuing a master's degree in Data Science. my passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am deeply in love with Artificial Intelligence, Machine Learning, and Data Science.
+My name's Phu. I had more than 6 years of experience in software development, my passion is programming and research new technologies, I very enjoy challenge new things in Software Development, my vision always brings the best values for my team and customers, the success of a team also my success.
+I used to take over many roles as Technical Java Project Leader, Senior Java Developer, PHP Developer, Fullstack Developer, Team Leader.
+This is my target:
+ - Find a job in a professional environment.
+ - Improve IT skills with a job with high technical expertise.
+ - High team spirit and desire to learn and share.
+ - Sociable, friendly communication when working in groups.
+ - Works well with groups or independently.
 
-## 🔥 Streak Stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thenomaniqbal&theme=monokai-metallian&hide_border=true"/></a>
-<p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
 
 ## 🛠️ My Favorite Tools
 
@@ -110,55 +102,13 @@ My name is [Noman Iqbal!](http://nomaniqbal.epizy.com/) and I'm a Software Engin
   <img align="left" alt="GIF" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
-
 ## &#x270d; Blog & Writing 📕
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [nomaniqbal.epizy.com](http://nomaniqbal.epizy.com/) as well as on [Hashnode](https://nomaniqbal.hashnode.dev/).
-
-A sample of my recent articles:
-
-<!-- BLOG-POST-LIST:START -->
-- [Why Learn Python? Five Reasons to Start Programming With Python in 2022](https://nomaniqbal.hashnode.dev/why-learn-python-five-reasons-to-start-programming-with-python-in-2022)
-- [Why does Python run slower than C?](https://nomaniqbal.hashnode.dev/why-does-python-run-slower-than-c)
-<!-- BLOG-POST-LIST:END -->
+Apart from coding, I also maintain a blog - you can find my articles on my website at [itphutran.com](https://itphutran.com/) as well as on [dev itphutran.com](https://dev.itphutran.com/).
 
 ## &#x1f4c8; Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-	<summary>💻 GitHub Profile Stats</summary>
-	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img alt="NomanIqbal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thenomaniqbal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="NomanIqbal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenomaniqbal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
-  <br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<details>
-	<summary>⚡ Top GitHub Directories</summary>
-	<br/>
-	<a href="https://github.com/thenomaniqbal/thenomaniqbal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=thenomaniqbal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-HousePricePrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-HousePricePrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LogisticRegression-BreastCancerDS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LogisticRegression-BreastCancerDS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/LinearRegression-GradesPrediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=LinearRegression-GradesPrediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/thenomaniqbal/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thenomaniqbal&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-</details>
-
-<details>
-<summary>💡 Profile visitors</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/thenomaniqbal/count.svg">
-</div>
-</details>
-
-
-<!--- ## ✡️ Stargazers 👇
-
-[![Stargazers repo roster for @thenomaniqbal/thenomaniqbal](https://reporoster.com/stars/thenomaniqbal/thenomaniqbal)](https://github.com/thenomaniqbal/thenomaniqbal/stargazers) -->
 
 ## 🙋‍♂️ Let's Connect
 <div align="center">
